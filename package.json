@@ -1,27 +1,30 @@
 {
-  "name": "module-13",
+  "name": "e-commerce-backend",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "dotenv": "^16.0.1",
-    "express": "^4.18.1",
-    "mysql2": "^2.3.3",
-    "sequelize": "^6.21.3"
+    "start": "node server.js",
+    "watch": "nodemon server.js",
+    "seed": "node ./seeds/index.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/StephonT/E-Commerce-Backend.git"
   },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/StephonT/E-Commerce-Backend/issues"
   },
-  "homepage": "https://github.com/StephonT/E-Commerce-Backend#readme"
+  "homepage": "https://github.com/StephonT/E-Commerce-Backend#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mysql2": "^2.3.3",
+    "nodemon": "^2.0.19",
+    "sequelize": "^6.21.3"
+  }
 }
