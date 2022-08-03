@@ -19,7 +19,9 @@
   This application will allow users to view, add, edit, and delete categories, products, and tags.
   <br>
   View video to see MySQL walkthrough: <a href= "https://drive.google.com/file/d/1JnO-fV-EgF0MeMiLrIwxSHLOG6wAkfYE/view"> MySQL Walkthrough</a>
+  <br>
   View video to see Insomnia walkthrough: <a href="https://drive.google.com/file/d/1ZZEACXfkLTSrdZM2zLTVPSI58jvR6q2e/view"> Insomnia Walkthrough</a>
+  <br>
   View video to see API routes in Insomnia: <a href= "https://drive.google.com/file/d/1N_wgXcH_B10lE5ZoY590D_aRlrQc4KQw/view"> API Routes</a>
    
 
